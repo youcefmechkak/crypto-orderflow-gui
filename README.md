@@ -52,8 +52,7 @@ Order flow = the stream of **executed trades**.
 
 ## Screenshot
 
-<img width="601" height="1028" alt="Screenshot 2025-08-22 120557" src="https://github.com/user-attachments/assets/2f955ab4-7cf5-46fe-92fb-407ef6c49c6e" />
-
+<img width="601" height="1028" alt="Screenshot 2025-08-22 120557" src="https://github.com/user-attachments/assets/14a0bc45-8951-49cd-b6b6-f8b1bdbe3241" />
 
 ## Developer Notes
 - **Tech Stack:** Python, Tkinter, Matplotlib, Pandas, python-binance.
